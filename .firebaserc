@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "oauth2-3b401": {
+      "hosting": {
+        "chatAngular": [
+          "oauth2-3b401"
+        ]
+      }
+    }
+  }
+}
